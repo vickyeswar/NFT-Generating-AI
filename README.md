@@ -1,3 +1,4 @@
+![Screenshot (12)](https://user-images.githubusercontent.com/121276285/216772781-41d1f9c9-4884-4a0c-810d-8c928a5b92cd.png)
 # Generate NFTs with AI and mint directly to the IPFS by a simple click.
 ### Setup .env file:
 Before running any scripts, you'll want to create a .env file with the following values (see .env.example):
@@ -34,3 +35,10 @@ Currency symbol :  ETH
 # Start frontend :
 
 `$ npm run start`
+
+![Screenshot (10)](https://user-images.githubusercontent.com/121276285/216772796-d7077beb-ef98-4752-af4e-66f06e11c2ed.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/121276285/216772814-4a224acf-cf8b-47ee-ab1b-79cea3b4ea6e.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/121276285/216772827-0c80f7d9-24f0-4f25-9afe-74aa101757b8.png)
+
