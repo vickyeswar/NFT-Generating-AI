@@ -13,8 +13,11 @@ You'll also need to create an account on [NFT.Storage](https://nft.storage/), an
 ## STEP 01 : add hardhat to your metamask wallet
 
 Network name :  Hardhat
+
 New RPC URL : http://127.0.0.1:8545/
+
 Chain ID : 31337
+
 Currency symbol :  ETH
 
 
